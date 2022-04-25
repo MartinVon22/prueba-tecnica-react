@@ -7,6 +7,9 @@
 ## Scripts disponibles para la aplicación Front-End:
 
     En la aplicación, puedes ejecutar los siguientes comandos:
+    
+    * npm install
+         Es usado para instalar todas las dependencias que usa el proyecto, las cuales están en package.json, es importante usar este script como primero paso.
 
     * npm start
 
