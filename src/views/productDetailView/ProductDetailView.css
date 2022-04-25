@@ -1,0 +1,33 @@
+.boxItems {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.MuiImageListItem-root.MuiImageListItem-img {
+  object-fit: none;
+}
+
+.product_box {
+  cursor: pointer;
+  border: 1px solid #00000026;
+  padding: 20px;
+  transition: box-shadow 0.2s;
+  margin: 5px;
+}
+
+.product_box:hover {
+  box-shadow: 0px 0px 1px 0px black;
+}
+
+.price_product {
+  background-color: black;
+}
+
+.link-route {
+  text-decoration: none;
+  color: inherit;
+}
+.link-route:hover {
+  text-decoration: underline;
+}
